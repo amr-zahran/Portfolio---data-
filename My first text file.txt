@@ -1,1 +1,2 @@
 My first text file on GitHub
+The file does not contain any information or scientific content, but it is the first step to learning how to create a repository, then uploading a file to it and editing the file as well.
